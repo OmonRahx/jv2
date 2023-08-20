@@ -1,6 +1,6 @@
-.idea
-out
-.iml
+.idea/
+out/
+*git .iml
 ### IntelliJ IDEA ###
 .idea/
 out/
